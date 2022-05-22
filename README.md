@@ -1,7 +1,7 @@
 # vcl
 Voltage Controlled Light
 
-Created by IIITAIII // 
+Created by IIITAIII // https://www.youtube.com/watch?v=D_h-Ccv3bGc
 
 The purpose of this code is to support an LED strip that will communicate with a modular synth, and trigger light bursts when receiving gate signals
 
